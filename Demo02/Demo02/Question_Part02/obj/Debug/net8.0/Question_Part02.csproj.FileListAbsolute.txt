@@ -1,0 +1,14 @@
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\bin\Debug\net8.0\Question_Part02.exe
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\bin\Debug\net8.0\Question_Part02.deps.json
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\bin\Debug\net8.0\Question_Part02.runtimeconfig.json
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\bin\Debug\net8.0\Question_Part02.dll
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\bin\Debug\net8.0\Question_Part02.pdb
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\Question_Part02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\Question_Part02.AssemblyInfoInputs.cache
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\Question_Part02.AssemblyInfo.cs
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\Question_Part02.csproj.CoreCompileInputs.cache
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\Question_Part02.dll
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\refint\Question_Part02.dll
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\Question_Part02.pdb
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\Question_Part02.genruntimeconfig.cache
+D:\Route[Backend-.NET]\OOP_Tutorials\Demo02\Demo02\Question_Part02\obj\Debug\net8.0\ref\Question_Part02.dll
